@@ -1,3 +1,5 @@
-# Docker Environment
+# docker-environment
 
-# Author
+## License
+
+MIT © Luis Augusto Melo Rohten
